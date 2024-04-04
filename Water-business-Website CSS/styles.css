@@ -1,0 +1,38 @@
+h1:hover{
+    background-color: blue;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+}
+
+.img:hover{
+background-color: aqua;
+}
+
+h3:hover{
+    background-color: blue;
+}
+
+h2{
+    justify-content: center;
+    display: flex;
+}
+.table{
+  
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+}
+
+.btn{
+
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 20px;
+
+}
